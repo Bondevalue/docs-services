@@ -19,7 +19,7 @@ lastupdated: "2017-06-01"
 <!-- The name of this file should remain index.md.
 Please delete out content examples and coding that you are not using for your service. -->
 
-# Getting started with Bondevalue
+# Getting started with Bondevalue APIs
 {: #gettingstarted_Bondevalue}
 
 <!-- Short description: REQUIRED
